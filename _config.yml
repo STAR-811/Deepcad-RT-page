@@ -1,6 +1,6 @@
 title:               Celeste
-url:                 https://star-811.github.io/Deepcad-RT-page/
-baseurl:             ""
+url:                 https://star-811.github.io
+baseurl:             /Deepcad-RT-page
 
 markdown:            kramdown
 highlighter:         rouge
