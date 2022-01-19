@@ -1,4 +1,4 @@
-title:               Celeste
+title:               DeepCAD-RT
 url:                 https://star-811.github.io
 baseurl:             /Deepcad-RT-page
 
@@ -16,7 +16,7 @@ sass:
   style:             :compressed
 
 author:
-  name:              Nico Elayda
+  name:              BBNC
   url:               nicoelayda.github.io
   email:             nico@elayda.com
 
