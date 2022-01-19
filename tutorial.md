@@ -1,6 +1,6 @@
 ---
 layout: page
-title: DeepCAD: Deep self-supervised learning for calcium imaging denoising
+title: DeepCAD-RT tutorial
 ---
 <img src="images/logo.PNG" width="800" align="middle">
 
